@@ -6,6 +6,14 @@ This repository contains the implementation of Homework 2 for the Machine Learni
 1. Image Classification (Imagebits and Land Patches datasets)
 2. Romanian Sentiment Analysis (ro_sent dataset)
 
+## 📓 Main Notebooks
+
+The complete homework implementation is provided in Jupyter notebooks:
+- **Part1_Image_Classification.ipynb** - Image classification with MLP and CNN models
+- **Part2_Sentiment_Analysis.ipynb** - Romanian sentiment analysis with RNN and LSTM models
+
+Open these notebooks in Jupyter to run the complete homework interactively.
+
 ## Project Structure
 
 ```
